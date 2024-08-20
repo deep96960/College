@@ -1,6 +1,6 @@
 import React from 'react'
 import './Contact.css'
-import arrow from '../../assets/aarow.jpg'
+import arrow from '../../assets/msg-icon.png'
 
 const Contact = () => {
     const [result, setResult] = React.useState("");
